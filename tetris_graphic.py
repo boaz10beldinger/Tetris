@@ -1,7 +1,6 @@
 import random
 import numpy as np
 
-print("//////////////")
 N = 10
 M = 20
 SCORE_PER_ROW  = 100
