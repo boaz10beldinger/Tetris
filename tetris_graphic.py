@@ -136,3 +136,4 @@ if __name__ == "__main__":
                   [[7, 7, 7], [7, 0, 0]]]
 
     main_loop(s, tetriminos)
+    print("end")
