@@ -74,4 +74,4 @@ class TetrisApp(object):
 
 if __name__ == '__main__':
     App = TetrisApp()
-    App.run()
+    print(App.run())
