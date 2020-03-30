@@ -1,6 +1,6 @@
 import random
 import numpy as np
-
+# great job boaz
 
 class Logic:
     N = 10
